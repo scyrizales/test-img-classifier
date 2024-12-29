@@ -1,0 +1,11 @@
+[project]
+name = "img-classifier"
+version = "0.0.1"
+dependencies = [
+    "tensorflow",
+    "keras",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "PyQt5==5.15.10"
+]
